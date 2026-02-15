@@ -1,3 +1,4 @@
+# Game working
 
 1- How 3d graphics work
 	1.1- Projection
@@ -13,4 +14,11 @@
 	3.1- Search from custom db
 	3.2- AI
 4- Project tracing
-	
+
+
+# Work leaning
+1- Test containers
+2- Automated refreshing testing
+3- Wild Fly
+4- WSL
+5- Lezy Vim
