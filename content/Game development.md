@@ -1,0 +1,1 @@
+Ever since I started playing games I wanted to be part of the process. Games are much more then just a pass time its a way to connect to other people. They are a way to express your self. They are a way to forget about how life is and to connect with something that you find meaning in. 
