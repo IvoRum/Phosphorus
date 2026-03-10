@@ -2,7 +2,7 @@ This landscape I want to use in the login page for [[☀️Sol Industrial Energy
 Идеята е да зелено поле с чисто небе и пухкави облаци. Да се виждат планини в далечината. Да има вятърни мелници, соларни панели и балони във въздуха. И за играчката да направя във всеки сезон как да изглежда:
 
 Лято: чисто небе зелено поле
-Есен: тревата да е красиво оранжево и птици(оптианално)
+Есен: тревата да е красиво оранжево и птици(оптианално). Има повече облаци и слънцето залязва бързо. 
 Зима: сняг, мелниците се забързват ряско и забавят и работят нормално известно време.
 Пролет: Цялото поле да е в цветя.
 
@@ -17,6 +17,7 @@ This landscape I want to use in the login page for [[☀️Sol Industrial Energy
 	- По край фабриката
 	- Мелниците с фон към планините
 	- Панелите и фабриката
+
 # Inspiration
 ![[Pasted image 20260310103905.png]]
 Image by:[Théa Dorangeon](https://www.artstation.com/salemium)
@@ -32,7 +33,7 @@ url: "https://www.artstation.com/artwork/oJK0Pk"
 favicon: ""
 aspectRatio: "56.35416666666667"
 ```
-Image by:### [ArquiTravelDesign](https://www.artstation.com/arquitraveldesign)
+Image by: [ArquiTravelDesign](https://www.artstation.com/arquitraveldesign)
 
 Game like 
 ```embed
@@ -43,7 +44,7 @@ url: "https://www.artstation.com/artwork/yk4PbQ"
 favicon: ""
 aspectRatio: "54.53125"
 ```
-Image by: ### [Jasmin Habezai-Fekri](https://www.artstation.com/curlscurly)[Pro](https://www.artstation.com/subscribe)
+Image by:  [Jasmin Habezai-Fekri](https://www.artstation.com/curlscurly)[Pro](https://www.artstation.com/subscribe)
 
 ```embed
 title: "The Future Is Bright - Atomhawk Solarpunk Contest Grand Prize Winner, Jessica Woulfe"
@@ -53,8 +54,7 @@ url: "https://www.artstation.com/artwork/3oQnvD"
 favicon: ""
 aspectRatio: "100"
 ```
-Image by: ### [Jessica Woulfe](https://www.artstation.com/jessicawoulfe)
-
+Image by:  [Jessica Woulfe](https://www.artstation.com/jessicawoulfe)
 
 # Esen
 ```embed
@@ -64,4 +64,55 @@ description: "On Ghost of Yōtei, I worked on the Winding Tears Shrine from init
 url: "https://www.artstation.com/artwork/dykaPK"
 favicon: ""
 aspectRatio: "100"
+```
+
+```embed
+title: "Autumn Morning, Tom Norman"
+image: "https://cdnb.artstation.com/p/assets/images/images/026/413/335/large/tom-norman-final-v001.jpg?1588712488"
+description: "This is a project I have been working on since Autumn after I was inspired by the stunning colours of the season. I set myself the goal of trying to do as much of it in 3D as possible and created everything other than one tree and some of the grass.  Let me know what you think!  If you want to learn Clarisse check out my free tutorials on youtube or take a full class on Skillshare: https://skl.sh/2ERmGBc https://www.youtube.com/channel/UCZCVPVMr5jBiKfo6EuuOb0Q https://www.instagram.com/tom_vfx_/"
+url: "https://www.artstation.com/artwork/PmdyEr"
+favicon: ""
+aspectRatio: "56.25"
+```
+Image by:  [Tom Norman](https://www.artstation.com/tgnorman)
+
+# Spring
+```embed
+title: "Flowers fields, Mary G."
+image: "https://cdna.artstation.com/p/assets/images/images/057/027/044/large/mary-g-highresscreenshot00035.jpg?1670631489"
+description: "This project is made of a mix of megascans assets that has been tweaked and painted in substance painter and originally made assets. The purpose was to create a stylized painterly looking enviroment. I also treated lighting like I would if I am working on a painting."
+url: "https://www.artstation.com/artwork/LeqaBk"
+favicon: ""
+aspectRatio: "56.2396006655574"
+```
+Image by:  [Mary G.](https://www.artstation.com/maryghattas)
+
+```embed
+title: "Flower fields, Aleksey Petruk"
+image: "https://cdna.artstation.com/p/assets/videos/images/063/310/316/large/aleksey-petruk-maxresdefault.jpg?1685238297"
+description: "Inspired by landscapes on artstation"
+url: "https://www.artstation.com/artwork/8b1JvE"
+favicon: ""
+aspectRatio: "56.25"
+```
+Image by:  [Aleksey Petruk](https://www.artstation.com/alinghor)
+
+
+# Videos
+```embed
+title: "Fetching"
+image: "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibGRzLW1pY3Jvc29mdCIgd2lkdGg9IjgwcHgiICBoZWlnaHQ9IjgwcHgiICB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCI+PGcgdHJhbnNmb3JtPSJyb3RhdGUoMCkiPjxjaXJjbGUgY3g9IjgxLjczNDEzMzYxMTY0OTQxIiBjeT0iNzQuMzUwNDU3MTYwMzQ4ODIiIGZpbGw9IiNlMTViNjQiIHI9IjUiIHRyYW5zZm9ybT0icm90YXRlKDM0MC4wMDEgNDkuOTk5OSA1MCkiPgogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0icm90YXRlIiBjYWxjTW9kZT0ic3BsaW5lIiB2YWx1ZXM9IjAgNTAgNTA7MzYwIDUwIDUwIiB0aW1lcz0iMDsxIiBrZXlTcGxpbmVzPSIwLjUgMCAwLjUgMSIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIGR1cj0iMS41cyIgYmVnaW49IjBzIj48L2FuaW1hdGVUcmFuc2Zvcm0+CjwvY2lyY2xlPjxjaXJjbGUgY3g9Ijc0LjM1MDQ1NzE2MDM0ODgyIiBjeT0iODEuNzM0MTMzNjExNjQ5NDEiIGZpbGw9IiNmNDdlNjAiIHI9IjUiIHRyYW5zZm9ybT0icm90YXRlKDM0OC4zNTIgNTAuMDAwMSA1MC4wMDAxKSI+CiAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiB0eXBlPSJyb3RhdGUiIGNhbGNNb2RlPSJzcGxpbmUiIHZhbHVlcz0iMCA1MCA1MDszNjAgNTAgNTAiIHRpbWVzPSIwOzEiIGtleVNwbGluZXM9IjAuNSAwIDAuNSAxIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgZHVyPSIxLjVzIiBiZWdpbj0iLTAuMDYyNXMiPjwvYW5pbWF0ZVRyYW5zZm9ybT4KPC9jaXJjbGU+PGNpcmNsZSBjeD0iNjUuMzA3MzM3Mjk0NjAzNiIgY3k9Ijg2Ljk1NTE4MTMwMDQ1MTQ3IiBmaWxsPSIjZjhiMjZhIiByPSI1IiB0cmFuc2Zvcm09InJvdGF0ZSgzNTQuMjM2IDUwIDUwKSI+CiAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiB0eXBlPSJyb3RhdGUiIGNhbGNNb2RlPSJzcGxpbmUiIHZhbHVlcz0iMCA1MCA1MDszNjAgNTAgNTAiIHRpbWVzPSIwOzEiIGtleVNwbGluZXM9IjAuNSAwIDAuNSAxIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgZHVyPSIxLjVzIiBiZWdpbj0iLTAuMTI1cyI+PC9hbmltYXRlVHJhbnNmb3JtPgo8L2NpcmNsZT48Y2lyY2xlIGN4PSI1NS4yMjEwNDc2ODg4MDIwNyIgY3k9Ijg5LjY1Nzc5NDQ1NDk1MjQxIiBmaWxsPSIjYWJiZDgxIiByPSI1IiB0cmFuc2Zvcm09InJvdGF0ZSgzNTcuOTU4IDUwLjAwMDIgNTAuMDAwMikiPgogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0icm90YXRlIiBjYWxjTW9kZT0ic3BsaW5lIiB2YWx1ZXM9IjAgNTAgNTA7MzYwIDUwIDUwIiB0aW1lcz0iMDsxIiBrZXlTcGxpbmVzPSIwLjUgMCAwLjUgMSIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIGR1cj0iMS41cyIgYmVnaW49Ii0wLjE4NzVzIj48L2FuaW1hdGVUcmFuc2Zvcm0+CjwvY2lyY2xlPjxjaXJjbGUgY3g9IjQ0Ljc3ODk1MjMxMTE5NzkzIiBjeT0iODkuNjU3Nzk0NDU0OTUyNDEiIGZpbGw9IiM4NDliODciIHI9IjUiIHRyYW5zZm9ybT0icm90YXRlKDM1OS43NiA1MC4wMDY0IDUwLjAwNjQpIj4KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InJvdGF0ZSIgY2FsY01vZGU9InNwbGluZSIgdmFsdWVzPSIwIDUwIDUwOzM2MCA1MCA1MCIgdGltZXM9IjA7MSIga2V5U3BsaW5lcz0iMC41IDAgMC41IDEiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBkdXI9IjEuNXMiIGJlZ2luPSItMC4yNXMiPjwvYW5pbWF0ZVRyYW5zZm9ybT4KPC9jaXJjbGU+PGNpcmNsZSBjeD0iMzQuNjkyNjYyNzA1Mzk2NDE1IiBjeT0iODYuOTU1MTgxMzAwNDUxNDciIGZpbGw9IiNlMTViNjQiIHI9IjUiIHRyYW5zZm9ybT0icm90YXRlKDAuMTgzNTUyIDUwIDUwKSI+CiAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiB0eXBlPSJyb3RhdGUiIGNhbGNNb2RlPSJzcGxpbmUiIHZhbHVlcz0iMCA1MCA1MDszNjAgNTAgNTAiIHRpbWVzPSIwOzEiIGtleVNwbGluZXM9IjAuNSAwIDAuNSAxIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgZHVyPSIxLjVzIiBiZWdpbj0iLTAuMzEyNXMiPjwvYW5pbWF0ZVRyYW5zZm9ybT4KPC9jaXJjbGU+PGNpcmNsZSBjeD0iMjUuNjQ5NTQyODM5NjUxMTc2IiBjeT0iODEuNzM0MTMzNjExNjQ5NDEiIGZpbGw9IiNmNDdlNjAiIHI9IjUiIHRyYW5zZm9ybT0icm90YXRlKDEuODY0NTcgNTAgNTApIj4KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InJvdGF0ZSIgY2FsY01vZGU9InNwbGluZSIgdmFsdWVzPSIwIDUwIDUwOzM2MCA1MCA1MCIgdGltZXM9IjA7MSIga2V5U3BsaW5lcz0iMC41IDAgMC41IDEiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBkdXI9IjEuNXMiIGJlZ2luPSItMC4zNzVzIj48L2FuaW1hdGVUcmFuc2Zvcm0+CjwvY2lyY2xlPjxjaXJjbGUgY3g9IjE4LjI2NTg2NjM4ODM1MDYiIGN5PSI3NC4zNTA0NTcxNjAzNDg4NCIgZmlsbD0iI2Y4YjI2YSIgcj0iNSIgdHJhbnNmb3JtPSJyb3RhdGUoNS40NTEyNiA1MCA1MCkiPgogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0icm90YXRlIiBjYWxjTW9kZT0ic3BsaW5lIiB2YWx1ZXM9IjAgNTAgNTA7MzYwIDUwIDUwIiB0aW1lcz0iMDsxIiBrZXlTcGxpbmVzPSIwLjUgMCAwLjUgMSIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIGR1cj0iMS41cyIgYmVnaW49Ii0wLjQzNzVzIj48L2FuaW1hdGVUcmFuc2Zvcm0+CjwvY2lyY2xlPjxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0icm90YXRlIiBjYWxjTW9kZT0ic3BsaW5lIiB2YWx1ZXM9IjAgNTAgNTA7MCA1MCA1MCIgdGltZXM9IjA7MSIga2V5U3BsaW5lcz0iMC41IDAgMC41IDEiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBkdXI9IjEuNXMiPjwvYW5pbWF0ZVRyYW5zZm9ybT48L2c+PC9zdmc+"
+description: "Fetching https://www.youtube.com/watch?v=sH08KMvPdI8"
+url: "https://www.youtube.com/watch?v=sH08KMvPdI8"
+favicon: ""
+placeholder-id: "embed-1773135987662-kygjrrnxe"
+```
+geometry nodes
+```embed
+title: "Blender Terrain in 2 CLICKS!"
+image: "https://i.ytimg.com/vi/P-j6X4HDuT8/maxresdefault.jpg"
+description: "patreon and stuff https://www.patreon.com/cg_mattermy website https://www.cgmatter.com#Blender#TerrainCreation#3DModeling#Landscapes#VideoTutorial#3DAnimatio..."
+url: "https://www.youtube.com/watch?v=P-j6X4HDuT8"
+favicon: ""
+aspectRatio: "56.25"
 ```
