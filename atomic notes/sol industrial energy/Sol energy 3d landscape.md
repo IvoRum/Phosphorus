@@ -2,7 +2,7 @@ This landscape I want to use in the login page for [[☀️Sol Industrial Energy
 Идеята е да зелено поле с чисто небе и пухкави облаци. Да се виждат планини в далечината. Да има вятърни мелници, соларни панели и балони във въздуха. И за играчката да направя във всеки сезон как да изглежда:
 
 Лято: чисто небе зелено поле
-Есен: тревата да е красиво оранжево 
+Есен: тревата да е красиво оранжево и птици(оптианално)
 Зима: сняг, мелниците се забързват ряско и забавят и работят нормално известно време.
 Пролет: Цялото поле да е в цветя.
 
@@ -54,3 +54,14 @@ favicon: ""
 aspectRatio: "100"
 ```
 Image by: ### [Jessica Woulfe](https://www.artstation.com/jessicawoulfe)
+
+
+# Esen
+```embed
+title: "Ghost of Yōtei - Winding Tears Shrine, Casey Coauette"
+image: "https://cdnb.artstation.com/p/assets/covers/images/094/371/065/large/casey-coauette-casey-coauette-goy-caseyc-winding-tears-shrine-thumbnail-b.webp?1765251411"
+description: "On Ghost of Yōtei, I worked on the Winding Tears Shrine from initial block-out to polish stages. Contribution: Location / mission layout, interior and exterior set-dressing, hand-placement of various biome props, terrain sculpting, terrain material and grass painting, location polish, some prop modeling.   One of my main goals in this space was to push the autumn biome feel as much as possible while also trying to keep the player's eyes directed towards Ishikari Castle whenever possible.  My primary inspiration for this shrine actually from seeing a photo of the Ashiribetsu Waterfall, near Sapporo in Hokkaido. The in game representation is much more scaled up to allow for climbing and exploration game-play.  Credits: Leads: Emilio Gandin, Lisa Liao, Gnat Magone Architecture: John Dunford Content Tech Team: Rob McDaniel World Team: John Germann - Waterfall assets, Rhiannon Remo - Rock assets Biome Team: Colin Valek, Andrew Stole, Jojo Steuber Lighting: Toby Tobler, Noelle Kleimeyer, Brandon McDonald VFX: Matt Vainio, Jesse Nicodemus"
+url: "https://www.artstation.com/artwork/dykaPK"
+favicon: ""
+aspectRatio: "100"
+```
