@@ -23,3 +23,8 @@ tags:
 	Не плащаш за поддръжка на хардуера а само как го ползваш.
 6-Go global in minutes
 	AWS предоставя възможноста да си най-близи сервизите ти до клиента. Тоест ако желаеш да разрасне клиентската ди демографи то това се прави за секунди ползвайки AWS.
+
+# Availability Zones AZ
+A AZ has one or more data centers with independend & redundent networking, power and connectivity. [[Designing for high Availability & fault Tolerance]].
+# Shared responsibilities 
+AWS предоставя условията да си подъжшаш и update-ваш ос но е твоя отговорност да го обновиш. AWS е отговорен за сигорност на облака а клиента за сигурност в облака. 
