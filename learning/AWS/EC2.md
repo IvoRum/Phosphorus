@@ -80,3 +80,12 @@ search "ec2" -> Launch instance -> Start set up
 
 
 Yes, move the new logic and refactor the method to improve readability. Adding more logic now will only make it harder to maintain in the future. It's better to rework the method to avoid increasing its complexity.
+
+# Scalding 
+ec2 auto scaling 
+Something like [[Cloud Watch| Amazon CloudWatch]] to monitor how to scale the instances
+EC2 auto scaling work by using key scaling matric metrics.
+![[Pasted image 20260324083556.png]]
+
+# Balansing
+Using load balancer [[Elastic Load Balancing]]
