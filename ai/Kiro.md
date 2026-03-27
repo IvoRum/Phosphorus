@@ -19,3 +19,6 @@ to see that everything is working
 ```bash
 kiro-cli --version
 ```
+
+# Applications
+[[Kiro break]]
