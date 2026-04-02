@@ -1,0 +1,4 @@
+- Streamlined and integrated
+- Define some parameters
+- Fully managed service
+- 

@@ -1,4 +1,6 @@
 
+The [Seeed XIAO RP2040](https://wiki.seeedstudio.com/XIAO-RP2040/) microcontroller can support up to 56 keys using a round-robin matrix for 8 pins. However, the number of keys may vary depending on the specific implementation and configuration used.
+
 Guide Links:
 ```embed
 title: "TOTEM - keebme"

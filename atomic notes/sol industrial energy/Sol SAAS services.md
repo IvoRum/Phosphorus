@@ -34,3 +34,9 @@ aspectRatio: "62.0253164556962"
 
 **[Postal](https://docs.postalserver.io/)** — fully open source mail server with a web UI, API, and SMTP support. Works well with Spring Boot's `JavaMailSender`. Handles transactional email, bounce tracking, and webhooks.
 **Brevo (ex-Sendinblue)** – transactional + marketing emails, free tier
+
+
+# Promps
+
+## Core 
+So now turnon the auth. so now when a user whats to get the data from a endpoint they need to tesnd the company number. This company number is retunred after log-in. but for now add a user with email plamen.r.iliev@gmail.com and pass petpopet625. this will have company id 1 and dront delete the demo site
