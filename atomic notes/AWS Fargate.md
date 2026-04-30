@@ -3,4 +3,4 @@ tags:
   - aws
 ---
 
-Surverless service that is self managed.
+Serverless service that is self managed. Containers.
